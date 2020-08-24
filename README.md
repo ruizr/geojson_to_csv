@@ -9,7 +9,7 @@ a.- pip install geopandas
 ### Uso
 1.- Descargar el script a una carpeta local.
 
-2.- Editar variables geojson_file y csv_file, donde:
+2.- Abrir el script python descargado y editar las variables geojson_file y csv_file, donde:
 
 #### geojson_file:
 Corresponde a la ruta del archivo GeoJSON de entrada para ser procesado.
