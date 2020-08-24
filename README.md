@@ -12,10 +12,10 @@ a.- pip install geopandas
 2.- Editar variables geojson_file y csv_file, donde:
 
 #### geojson_file:
-Corresponde al archivo GeoJSON de entrada para ser procesado.
+Corresponde a la ruta del archivo GeoJSON de entrada para ser procesado.
 
 #### csv_file:
-Corresponde al archivo CSV de salida, donde se almacenaran los datos del archivo GeoJSON en formato CSV.
+Corresponde a la ruta del archivo CSV de salida, donde se almacenaran los datos del archivo GeoJSON en formato CSV.
 
 ### Ejecucion
 Para ejecutar, escribir la siguiente linea:
